@@ -1,5 +1,8 @@
 # Método de uso
 
+Ejercicio para la materia de Diseño y Arquitectura de Software.
+Se utilizaron dos diseños de software para este ejercicio: Facade para la lógica interna y Singleton para el estado del usuario.
+
 Dentro del sistema tenemos dos usuarios:
 
 - David Quime (61737, aaaaaa)
